@@ -10,7 +10,7 @@
     "git",
     "study"
   ],
-  "author": "as+cristina",
+  "author": "as+cristina+Nicu",
   "license": "ISC",
   "dependencies": {
     "cypress": "^9.7.0"
